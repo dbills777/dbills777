@@ -16,4 +16,9 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br>
 <hr>
-[![Derricks's github stats](https://github-readme-stats.vercel.app/api?username=dbills777&show_icons=true)](https://github.com/dbills777/github-readme-stats)
+<!-- <a href="https://github.com/dbills777">
+<img align="center" alt="derricks's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dbills777&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> -->
+
+<a href="https://github.com/dbills777">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dbills777&layout=compact&theme=radical" />
+</a>
