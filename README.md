@@ -1,4 +1,4 @@
-### Hi I'm Derrick Bills Front End Developer!
+### Hi I'm Derrick Bills, Software Engineer!
 
 <hr>
 - 🌱 I’m currently Learning more areas of JavaScript Client & Server Side.
