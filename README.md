@@ -1,7 +1,7 @@
 ### Hi I'm Derrick Bills, Front End Development is Awesome!
 
 <hr>
-- 🌱 I’m currently Learning more areas of JavaScript Client & Server Side. Svelte, and React are Two of my favorite libraries.
+- 🌱 I’m enjoy all JavaScript Client & Server Side. Svelte, and React are Two of my favorite libraries.
 <br>
 - ⚡ Some of The Technologies I Frequently Use.
 <hr>
