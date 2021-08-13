@@ -1,10 +1,13 @@
 <!-- ![Error Gif](https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif) -->
-![Error Gif](https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif)
+<!-- ![Error Gif](https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif) -->
+![Error Gif](https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif)
 
-### Hi I'm Derrick Bills, Front End Development is Awesome!
+### Hi I'm Derrick Bills, Welcome to my GitHub profile!
 
+#### Want to check out my projects? :grin: Here ya go:
+  - [React Crud Application](https://github.com/dbills777/crud-app-front-end)
 <hr>
-- 🌱 I’m enjoy all JavaScript Client & Server Side. React is my favorite front end library.
+- 🌱 I enjoy learning all things JavaScript, Client & Server Side. React is my favorite front end library.
 <br>
 - ⚡ Some of The Technologies I Frequently Use.
 <hr>
@@ -21,10 +24,8 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br>
-<hr>
-<!-- <a href="https://github.com/dbills777">
-<img align="center" alt="derricks's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dbills777&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> -->
 
-<a href="https://github.com/dbills777">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dbills777&layout=compact&theme=radical" />
+
+<!-- <a href="https://github.com/dbills777">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dbills777&layout=compact&theme=radical" /> -->
 </a>
