@@ -1,3 +1,6 @@
+![Error Gif](https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif)
+![Error Gif](https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif)
+
 ### Hi I'm Derrick Bills, Front End Development is Awesome!
 
 <hr>
