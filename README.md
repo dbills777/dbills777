@@ -6,6 +6,8 @@
 
 #### Want to check out my projects? :grin: Here ya go:
   - [React Crud Application](https://github.com/dbills777/crud-app-front-end)
+  - [Svelte API practice](https://github.com/dbills777/hacker-news-clone)
+  - [Node Recipe App Using EJS](https://github.com/dbills777/final3760)
 <hr>
 - 🌱 I enjoy learning all things JavaScript, Client & Server Side. React is my favorite front end library.
 <br>
