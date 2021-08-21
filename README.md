@@ -7,8 +7,8 @@
 #### Want to check out my projects? :grin: browse through or click on these:
   - [React Crud Application](https://github.com/dbills777/crud-app-front-end)
   - [Svelte API practice](https://github.com/dbills777/hacker-news-clone)
+  - [TipCalc](https://github.com/dbills777/tip-calc)
   - [Landing Page](https://github.com/dbills777/marketing-website)
-
   - [VR Preschool Tour](https://github.com/dbills777/pre_school_tour)
 <hr>
 - 🌱 I enjoy learning all things JavaScript, Client & Server Side. React is my favorite front end library.
